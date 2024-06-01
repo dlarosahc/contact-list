@@ -19,7 +19,7 @@ formLogin.addEventListener('submit', async e =>{
   }, 3000);
   } else {
     localStorage.setItem('user', JSON.stringify(user));
-    window.location.href = '../contact-list/index.html'
+    window.location.href = ' https://dlarosahc.github.io/contact-list/contact-list';
   }
   
 })
