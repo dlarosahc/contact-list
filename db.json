@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "id": "e18a",
+      "username": "dlarosa20"
+    },
+    {
+      "id": "0192",
+      "username": "rossnuez"
+    }
+  ],
+  "contacts": [
+    {
+      "id": "dda9",
+      "contacto": "Rosa Nuez",
+      "numero": "04125909875",
+      "user": "dlarosa20"
+    },
+    {
+      "id": "47ec",
+      "contacto": "Darwin Garcia",
+      "numero": "04125909873",
+      "user": "dlarosa20"
+    }
+  ]
+}
